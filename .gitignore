@@ -1,6 +1,10 @@
-
+.gitignore
 JupyterRun.bat
 sample_submission.csv
 test.csv
 train.csv
 Weather_NYC_Data.csv
+.ipynb_checkpoints/NYX_Taxi-checkpoint.ipynb
+Kaggle-Taxi-NYC.py
+result.csv
+osm.html
