@@ -8,3 +8,5 @@ Weather_NYC_Data.csv
 Kaggle-Taxi-NYC.py
 result.csv
 osm.html
+*.xlsx
+*.csv
