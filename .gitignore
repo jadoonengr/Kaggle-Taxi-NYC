@@ -10,3 +10,6 @@ result.csv
 osm.html
 *.xlsx
 *.csv
+test1.ipynb
+*.zip
+.ipynb_checkpoints/test1-checkpoint.ipynb
